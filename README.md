@@ -7,7 +7,10 @@ Data Validation,Vlookups,IFS Function,and cell Formating.
 - Identified top-performing students
 - Highlighted students needing improvement
 # Files In This Repository
-- Student_report.xlsx
+- Student_report.xlsx ![report.,](report.,.png)
 
   ## Conclusion
   This analysis helps in understanding student performance and supports better academic decisions.
+  ![Report.](Report..png)
+  ![report](report.png)
+
